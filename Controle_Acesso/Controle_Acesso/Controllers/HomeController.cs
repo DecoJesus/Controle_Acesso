@@ -20,10 +20,7 @@ namespace Controle_Acesso.Controllers
         {
             return View();
         }
-        public ActionResult qrela()
-        {
-            return View();
-        }
+        
 
 
 
